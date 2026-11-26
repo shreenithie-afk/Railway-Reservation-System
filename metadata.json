@@ -1,0 +1,6 @@
+{
+  "name": "Railway Reservation Java Code & PDF Exporter",
+  "description": "Browse the complete Java 17+ Railway Reservation and Ticket Cancellation System source code and export it as a formatted PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
